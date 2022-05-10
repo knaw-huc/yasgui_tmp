@@ -1,0 +1,15 @@
+#map {
+display: block;
+width: 100%;
+height: 100%;
+}
+
+#consoleForm{
+font-family: Verdana;
+font-size: 12px;
+}
+
+#consoleForm .label, #consoleForm .yasgui_input_element{
+display: inline-block;
+margin-right: 6px;
+}
